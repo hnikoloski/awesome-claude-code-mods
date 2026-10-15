@@ -40,6 +40,7 @@ helenkwok/open-links
 hellosverre/claude-skins
 hellosverre/redgreen
 hellosverre/smart-compact
+hnikoloski/rixflow
 hoobnn/hoobnn-agent-mods
 i-harsha-reddy/naruto-mod
 iamumeransari/claude-show-your-work
